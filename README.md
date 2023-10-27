@@ -28,3 +28,4 @@ npm run dev
 npm run build
 ```
 # todolist-vue
+https://funny-licorice-533b6c.netlify.app/
