@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <h1>Appppp</h1>
+    <h1>App Todo List</h1>
   </header>
 </template>
 <script>
